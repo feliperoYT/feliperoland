@@ -2,7 +2,7 @@
     "name": "feliperoland",
     "preductname": "feliperoland",
     "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "description": "Launcher Mincraft",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, jtxt M3, Inc.",
